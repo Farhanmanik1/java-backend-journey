@@ -1,16 +1,19 @@
 import java.util.*;
 
+//adds two numbers
 public class functions {
     public static int calculateSum(int a, int b) {
         int sum = a + b;
         return sum;
     }
 
+    // product of two numbers
     public static int calculateProduct(int a, int b) {
         int product = a * b;
         return product;
     }
 
+    // factorial of a number
     public static void calculateFactorial(int n) {
         int fact = 1;
         if (n == 1 || n == 0) {

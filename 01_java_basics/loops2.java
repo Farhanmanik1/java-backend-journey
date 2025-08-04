@@ -65,7 +65,6 @@ public class loops2 {
         // System.out.println();
         // }
 
-        int num = 1;
         for (int i = 0; i <= 5; i++) {
             for (int j = 1; j <= i; j++) {
                 if ((i + j) % 2 == 0) {

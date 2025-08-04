@@ -1,12 +1,13 @@
 import java.util.*;
 
 public class exercise1 {
-
+    // avg of 3 numbers
     public static int averageOfThree(int a, int b, int c) {
         int avg = (a + b + c) / 3;
         return avg;
     }
 
+    // sum of odd numbers
     public static int sumOfOdd(int n) {
         int num = 0;
         for (int i = 1; i <= n; i++) {
@@ -17,6 +18,7 @@ public class exercise1 {
         return num;
     }
 
+    // greatest of 2 numbers
     public static void greatestOfTwo(int a, int b) {
         if (a > b) {
             System.out.println(a + " is greater");
@@ -27,6 +29,7 @@ public class exercise1 {
         }
     }
 
+    // circumference of circle
     public static double circumferenceOfCircle(double r) {
         double circumference = 2 * 3.14 * r;
         return circumference;
@@ -40,6 +43,7 @@ public class exercise1 {
         }
     }
 
+    // power of a number
     public static int raisedToPower(int x, int n) {
         int ans = 1;
         for (int i = 1; i <= n; i++) {
@@ -48,6 +52,7 @@ public class exercise1 {
         return ans;
     }
 
+    // Greatest comman divisor
     public static void GCD(int a, int b) {
         while (a != b) {
             if (a > b) {
@@ -59,6 +64,7 @@ public class exercise1 {
         System.out.println(a);
     }
 
+    // finding fibonacci series
     public static void calculateFibonacci(int n) {
         int a = 0, b = 1;
         for (int i = 0; i <= n; i++) {
