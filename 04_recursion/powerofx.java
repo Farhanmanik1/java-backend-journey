@@ -13,6 +13,7 @@ public class powerofx {
         return xpow;
     }
 
+    // method 2
     public static int power2(int x, int n) {
         if (n == 0) {// base case 1
             return 1;
