@@ -1,60 +1,88 @@
-##### \# Java Backend Developer Journey (6 Month Plan)
+# Java Backend Journey 🚀
 
-##### 
+This repository tracks my **6-month journey** to become job-ready in **Java, DSA, and backend development**.  
+I’m following a structured roadmap — mastering **core Java, Data Structures & Algorithms**, and moving toward **Spring Boot, Git, SQL, AWS, and DevOps**.  
 
-##### Welcome to my self-paced, no-excuses grind to become a job-ready \*\*Java Backend Developer\*\* in 6 months.
+Every folder represents a **topic milestone**, with clean code, comments, and daily commits.  
 
-##### 
+---
 
-##### \## 📅 Plan Overview
+## 📂 Repository Structure
 
-##### \- 💻 Hours per day: 6
+java-backend-journey/
+├── 01_java_basics/ # Variables, I/O, conditionals, loops, functions
+├── 02_arrays/ # Array basics, string manipulation, searching
+├── 03_sorting/ # Sorting algorithms + LeetCode problems
+├── 04_recursion/ # Recursion practice + LeetCode problems
+├── 05_backtracking/ # N-Queens, Sudoku solver, subsets, permutations
+├── 06_Backtracking_max/ # Optimized backtracking + advanced problems
+├── 07_SpecialSort/ # MergeSort, QuickSort, Rotated Search, etc.
+├── 08_OOPS/ # OOP fundamentals: classes, inheritance, polymorphism
+├── 09_Projects/ # OOP practice projects
+│ ├── banking.java
+│ ├── librarymanagement.java
+│ └── Studentdata.java
+└── README.md
 
-##### \- 🧠 Focus areas: Java, Spring Boot, SQL, Git, AWS, DevOps
+yaml
+Copy code
 
-##### 
+---
 
-##### \## ✅ Weekly Progress
+## 📌 Progress Log
 
-##### 
+- **Day 1:** Java basics — variables, I/O, conditionals, loops, functions  
+- **Day 2–3:** Arrays + Sorting algorithms (Bubble, Insertion, Selection) + LeetCode problems  
+- **Day 4–5:** Recursion problems + LeetCode (Fibonacci, Reverse String, etc.)  
+- **Day 6–7:** Backtracking (Rat in Maze, N-Queens, Sudoku) + MergeSort/QuickSort  
+- **Day 8:** OOP fundamentals — constructors, static keyword, inheritance, interfaces, abstraction, polymorphism  
+- **Day 9:** Completed **OOP practice projects** ✅  
+  - Banking System  
+  - Library Management  
+  - Student Data System  
 
-##### \### Week 1
+---
 
-##### \- \[x] Java Basics (Variables, Data Types, Loops, Methods)
+## 🛠️ Technologies & Tools
 
-##### \- \[x] OOP in Java (Classes, Objects, Inheritance, Polymorphism)
+- **Language:** Java  
+- **Version Control:** Git & GitHub  
+- **Editor:** VS Code  
+- **Future Goals:** Spring Boot, SQL, AWS, DevOps  
 
-##### 
+---
 
-##### \### Week 2
+## 🚀 Projects (Day 9 — OOP Practice)
 
-##### \- \[ ] Exception Handling
+### 🏦 Banking System
+- Create bank accounts  
+- Deposit/withdraw money  
+- Manage balances  
 
-##### \- \[ ] File Handling
+### 📚 Library Management
+- Add books  
+- Issue/return books  
+- Track members  
 
-##### \- \[ ] Collections Framework
+### 🎓 Student Data System
+- Manage student information  
+- Use classes & objects for structure  
 
-##### 
+---
 
-##### > More weekly plans to be added...
+## 🎯 Next Steps (Day 10+)
 
-##### 
+- Refactor projects into **multi-class OOP design** (e.g., `BankAccount`, `Library`, `Book`, etc.)  
+- Add **JUnit tests** for project methods (`deposit()`, `withdraw()`, `issueBook()`, etc.)  
+- Move into **Stacks, Queues, Linked Lists** for stronger DSA foundation  
 
-##### \## 📘 Resources
+---
 
-##### \- Java: CodeWithHarry, DSA by Kunal Kushwaha
+## 📅 Commitment
 
-##### \- Spring Boot: Amigoscode
+I study **6 hours/day** and commit daily progress to GitHub.  
+This is not casual learning — it’s a disciplined roadmap to land a backend development role.  
 
-##### \- DevOps: TechWorld with Nana
+---
 
-##### 
-
-##### ---
-
-##### 
-
-##### Let the grind begin 🚀
-
-##### 
-
+⚡ *Follow this repo to track my journey from zero → job-ready Java backend developer.*  
